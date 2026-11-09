@@ -37,3 +37,4 @@ object VulnerableSastApp {
     pingServer(args.headOption.getOrElse("127.0.0.1"))
   }
 }
+// Triggering Upwind security scan
